@@ -6,4 +6,4 @@ What am I doing?
 Here's a link for the privacy policy https://www.privacypolicygenerator.info/download.php?lang=en&token=GxitEWx57QqWC6cSv1Pbir1nHgW3DxQY#
 
 
-Name it something like this privacyPolicy_<studentid>.doc
+Name it something like this privacyPolicy_(studentid).doc
