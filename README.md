@@ -2,7 +2,7 @@
 
 
 
-Here's a link for the privacy policy [a relative link](privacyPolicy.html)
+Here's a link for the [Privacy Policy](privacyPolicy.md)
 
 
 Allegedly I should have a working stylesheet now?
