@@ -1,6 +1,4 @@
-[ <link href="styles.css" rel="stylesheet"></link> ]
-
-
+[<link href="styles.css" rel="stylesheet"></link>\]
 
 Here's a link for the [Privacy Policy](privacyPolicy.md)
 
