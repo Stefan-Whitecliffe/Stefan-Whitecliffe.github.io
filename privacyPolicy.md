@@ -1,3 +1,5 @@
+[Home](README.md)
+
 <h1>Privacy Policy for Instagram</h1>
 
 <p>At Instagram, accessible from https://www.instagram.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Instagram and how we use it.</p>
