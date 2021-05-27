@@ -1,5 +1,3 @@
-# Stefan-Whitecliffe.github.io
-
 Merging it back
 
 
@@ -7,7 +5,6 @@ Here's a link for the privacy policy https://www.privacypolicygenerator.info/dow
 
 
 Name it something like this privacyPolicy_(studentid).doc
-
 
 
 
