@@ -1,5 +1,6 @@
 Merging it back
 
+[a relative link](privacyPolicy.html)
 
 Here's a link for the privacy policy https://www.privacypolicygenerator.info/download.php?lang=en&token=GxitEWx57QqWC6cSv1Pbir1nHgW3DxQY#
 
