@@ -1,4 +1,6 @@
-# Stefans Markdown version
+# Stefans Markdown Site
+
+#### HTML was being uncooperative
 
 Here's a link for the [Privacy Policy](privacyPolicy.md)
 
