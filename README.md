@@ -1,6 +1,6 @@
-# Stefans Markdown Site
+# Markdown Site 2.0
 
-#### HTML was being uncooperative
+#### HTML is uncooperative
 
 Here's a link for the [Privacy Policy](privacyPolicy.md)
 
