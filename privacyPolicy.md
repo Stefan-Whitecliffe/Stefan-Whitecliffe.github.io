@@ -56,3 +56,7 @@
 <h2>Consent</h2>
 
 <p>By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>
+
+
+
+[Go Back](README.md)
